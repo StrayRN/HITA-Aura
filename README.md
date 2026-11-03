@@ -1,5 +1,10 @@
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="webp/icon-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="webp/icon-light.webp">
+  <img width="120" alt="HITA Aura Icon" src="webp/icon-light.webp">
+</picture>
+  
 # HITA Aura
 
 **学生自研的面向哈尔滨工业大学一校三区的 iOS 原生 AI-Native 校园日程助手**
@@ -12,7 +17,8 @@
 [![Website](https://img.shields.io/badge/Website-hita.strayrn.com-0F4C81?style=flat-square)](https://hita.strayrn.com)
 
 [产品官网](https://hita.strayrn.com) · [App Store 下载](https://apps.apple.com/cn/app/hita-aura/id6760897635) · [提交 Bug / 功能建议](../../issues)
-<img width="1316" height="792" alt="image" src="https://github.com/user-attachments/assets/2d7e03d5-5315-4d00-8e7e-ff162d1f8518" />
+
+<img width="860" alt="HITA Aura Overview" src="webp/00.webp" />
 
 </div>
 
@@ -64,12 +70,7 @@ App 围绕 **“今日 — 时间表 — 工作台 — 资讯 - 资源”** 五�
   4. 清理应用数据，回归初始态。
   5. HITA Aura Pro管理。
 
-<img width="300" alt="01" src="https://github.com/user-attachments/assets/7b5a5404-3602-43bd-a5ad-23ac92cdace7" />
-<img width="300" alt="02" src="https://github.com/user-attachments/assets/5b063d46-fdf7-42f6-85d8-4293b14972dd" />
-<img width="300" alt="03" src="https://github.com/user-attachments/assets/641d17e4-af44-44af-9afc-55e2f077e53f" />
-<img width="300" alt="346b6ae4ed3f52859ae9abaf723910cc" src="https://github.com/user-attachments/assets/d8274f60-20e3-4fdb-83fe-1d161d6e0513" />
-<img width="300" alt="04" src="https://github.com/user-attachments/assets/a091410b-f445-4fc9-b0f7-1c44c92ce045" />
-<img width="300" alt="9c5da1de61a2ea969a3efeb06b63ee0d" src="https://github.com/user-attachments/assets/50e7818f-5c08-4667-a17f-9addbe6ffd85" />
+<img width="300" alt="今日" src="webp/01.webp" /><img width="300" alt="时间表" src="webp/02.webp" /><img width="300" alt="工作台" src="webp/03.webp" /><img width="300" alt="资讯" src="webp/05.webp" /><img width="300" alt="资源" src="webp/04.webp" /><img width="300" alt="我的" src="webp/06.webp" />
 
 ---
 
